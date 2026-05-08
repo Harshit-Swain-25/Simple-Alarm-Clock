@@ -113,7 +113,7 @@ def main():
     wait_until(target)
     print("\nTime reached:", datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
-    alarm_file = "/Users/harshitswain/Desktop/Projects/Python/Simple Alarm Clock/alarm.wav"
+    alarm_file = "/Users/harshitswain/Desktop/Simple Alarm Clock/alarm.wav"
     play_alarm_sound(alarm_file)
     print("Alarm finished.")
 
