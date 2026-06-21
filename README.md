@@ -46,13 +46,13 @@ Project Folder/
 ### 1. Clone the repository
 
 ```bash id="z7mh1o"
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Harshit-Swain-25/Simple-Alarm-Clock.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash id="ww9c4v"
-cd your-repository-name
+cd Simple-Alarm-Clock
 ```
 
 ### 3. Run the program
